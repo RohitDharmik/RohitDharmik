@@ -42,18 +42,9 @@ A feature-rich mobile e-commerce app with a seamless user experience and secure 
 🔹 Technologies: Flutter, Dart, Firebase, REST APIs
 🔹 Live Demo: 🔗 Click Here | 🔹 Repository: 📂 GitHub
 
-📈 GitHub Stats
-
-
 📫 Contact Me
 📩 Email: rohit1234dharmik@gmail.com
 🔗 LinkedIn: https://in.linkedin.com/in/rohit-dharmik-157648149
 🌍 Portfolio: yourwebsite.com
 
-💡 Best Practices for a GitHub README
-📌 Keep it simple & structured – Use clear headings and concise content.
-📌 Use visuals – Add images, badges, and GitHub stats for a dynamic look.
-📌 Showcase projects effectively – Provide live demos, repo links, and descriptions.
-📌 Highlight your uniqueness – Share what makes you different from other developers.
-📌 Keep it updated – Regularly refresh your README with new projects and skills.
 
