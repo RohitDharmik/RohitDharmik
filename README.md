@@ -46,8 +46,8 @@ A feature-rich mobile e-commerce app with a seamless user experience and secure 
 
 
 📫 Contact Me
-📩 Email: your.email@example.com
-🔗 LinkedIn: linkedin.com/in/yourprofile
+📩 Email: rohit1234dharmik@gmail.com
+🔗 LinkedIn: https://in.linkedin.com/in/rohit-dharmik-157648149
 🌍 Portfolio: yourwebsite.com
 
 💡 Best Practices for a GitHub README
